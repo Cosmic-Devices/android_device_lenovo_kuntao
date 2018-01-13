@@ -33,3 +33,6 @@ PRODUCT_NAME := cos_kuntao
 PRODUCT_BRAND := Lenovo
 PRODUCT_MANUFACTURER := Lenovo
 PRODUCT_RELEASE_NAME := kuntao
+#Official
+KBUILD_BUILD_HOST := Saturn
+KBUILD_BUILD_USER := Savitar
